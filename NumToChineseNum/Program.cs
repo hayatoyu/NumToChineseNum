@@ -17,6 +17,7 @@ namespace NumToChineseNum
             Console.WriteLine(NumToChineseNum("10040002000"));
             Console.WriteLine(NumToChineseNum("200005000"));
             Console.WriteLine(NumToChineseNum("12000"));
+            Console.WriteLine(NumToChineseNum("500000087"));
         }
 
         // 光用 long 沒辦法到 10^44 次方
